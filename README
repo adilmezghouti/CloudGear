@@ -1,0 +1,11 @@
+CloudGear is a simple iPhone app that allows you to manage your Amazon EC2 instances.
+And it allows you to:
+- Search the AMI directory, it covers the Amazon, public and self-owned AMIs.
+- Launch, Start, stop and terminate ebs and instance-store based EC2 instances.
+- Monitor the network and CPU usages using Amazon Cloud Watch.
+- Custom Launch of EC2 instances.
+- List ebs devices and attach them to running EC2 instances.
+- Securely store the keys in the keychain.
+- Update and delete your amazon access and private keys from your iPhone.
+
+CloudGear is compatible with iOS 3.2 or later.
